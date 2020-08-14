@@ -1,5 +1,7 @@
 // github.com/andy489
 
+// https://codeforces.com/problemset/problem/522/A
+
 #include <iostream>
 #include <list>
 #include <string>
