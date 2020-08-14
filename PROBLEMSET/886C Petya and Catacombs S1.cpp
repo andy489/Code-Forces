@@ -1,5 +1,7 @@
 // github.com/andy489
 
+// https://codeforces.com/problemset/problem/886/C
+
 #include<iostream>
 
 int n, s[(int) (2e5) + 1] = {0}, cur = 0, t;
