@@ -1,3 +1,7 @@
+// github.com/andy489
+
+// https://codeforces.com/problemset/problem/120/F
+
 #include <iostream>
 #include <vector>
 #include <list>
