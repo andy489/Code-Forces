@@ -1,5 +1,7 @@
 // github.com/andy489
 
+// https://codeforces.com/problemset/problem/981/C
+
 #include <cstdio>
  
 const int mxN = 1e5 + 1;
