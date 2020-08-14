@@ -1,5 +1,7 @@
 // github.com/andy489
 
+// https://codeforces.com/problemset/problem/913/B
+
 #include <iostream>
 #include <vector>
 
