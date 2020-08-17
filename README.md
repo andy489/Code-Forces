@@ -18,3 +18,8 @@ Problemset, Competitons, Contests
 13|[580C Kefa and Park](https://codeforces.com/problemset/problem/580/C)|dfs and similar, graphs, trees|1500|[Solution.cpp](https://github.com/andy489/Code-Forces/blob/master/PROBLEMSET/580C%20Kefa%20and%20Park.cpp)
 14|[1325C Ehab and Path-etic MEXs](https://github.com/andy489/Code-Forces/blob/master/PROBLEMSET/1325C%20Ehab%20and%20Path-etic%20MEXs.pdf)|constructive algorithms, dfs and similar, greedy, trees|1500|[Solution.cpp](https://github.com/andy489/Code-Forces/blob/master/PROBLEMSET/1325C%20Ehab%20and%20Path-etic%20MEXs.cpp)
 15|[839C Journey](https://github.com/andy489/Code-Forces/blob/master/PROBLEMSET/839C%20Journey.pdf)|dfs and similar, dp, graphs, probabilities, trees|1500|[Solution.cpp](https://github.com/andy489/Code-Forces/blob/master/PROBLEMSET/839C%20Journey.cpp)
+16|[1139C Edgy Trees](https://github.com/andy489/Code-Forces/blob/master/PROBLEMSET/1139C%20Edgy%20Trees.pdf)|dfs and similar, dsu, graphs, math, trees|1500|[Solution 1 (dfs).cpp](https://github.com/andy489/Code-Forces/blob/master/PROBLEMSET/1139C%20Edgy%20Trees%20S1%20(dfs).cpp)<br>[Solution 2 (dsu).cpp](https://github.com/andy489/Code-Forces/blob/master/PROBLEMSET/1139C%20Edgy%20Trees%20S2%20(dsu).cpp)
+
+
+
+
