@@ -15,13 +15,13 @@ using namespace std;
 vector<list<int>> adj;
 int maxEdge = -1;
 
-int bfs(int u, int par = -1) {
-    vector<int> dist(maxEdge + 1, 1e9);
+int bfs(int u, int par = -1) { // u = start node, par = parent
+    vector<int> dist(maxEdge + 1, 1e9); // dist = distances to start node
     dist[u] = 0;
     queue<pair<int, int>> q;
     q.push({u, par});
     while (!q.empty()) {
-        int v, fa;
+        int v, fa; // v = vertex/node, fa = father/parent
         tie(v, fa) = q.front();
         q.pop();
         for (const auto &child:adj[v]) {
@@ -29,7 +29,7 @@ int bfs(int u, int par = -1) {
             if (dist[child] == 1e9) {
                 q.push({child, v});
                 dist[child] = dist[v] + 1;
-            } else {
+            } else { // we have already visited that node, so there is a cycle
                 return dist[child] + dist[v] + 1;
             }
         }
