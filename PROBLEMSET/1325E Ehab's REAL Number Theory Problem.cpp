@@ -47,10 +47,8 @@ void normalize(int &x) {
 
 int main() {
     ios;
-
-    int n;
-    cin >> n;
-    vector<int> e(n);
+    int n; cin >> n;
+    vector<int> e(n); // edges (in the analysis we said that every element is like an edge)
     for (int &edge: e) {
         cin >> edge;
         normalize(edge); // normalizing every edge
